@@ -12,7 +12,7 @@ A simple Python game where the user tries to guess a random number between a low
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/guess-the-number.git
+git clone https://github.com/sidowxyz/number-guessing-game
 ```
 
 2. Navigate to the directory:
